@@ -18,8 +18,6 @@ You can use the website to generate badges: https://shields.io/
 - 📫 How to reach me : [![profile](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)](https://t.me/SPA4KBRO)
 
 
-# Contribution Graph:
-<a href="https://github.com/SPARKB6O">
-<p align="center">
+
     
 
